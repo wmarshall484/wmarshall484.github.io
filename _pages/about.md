@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I like to think about computer science and math.
+I like to think about math and computer science.
